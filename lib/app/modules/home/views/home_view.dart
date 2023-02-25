@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:dropdown_search/dropdown_search.dart';
 import 'package:get/get.dart';
-import 'package:weather/app/data/model/provinci_model.dart';
-import 'package:weather/app/data/model/citiy_model.dart';
+import 'package:ongkir/app/data/model/provinci_model.dart';
+import 'package:ongkir/app/data/model/citiy_model.dart';
 import '../controllers/home_controller.dart';
 import 'package:dio/dio.dart';
 

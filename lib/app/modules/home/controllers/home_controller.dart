@@ -4,7 +4,8 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:http/http.dart' as http;
-import 'package:weather/app/data/model/ongkir_model.dart';
+
+import 'package:ongkir/app/data/model/ongkir_model.dart';
 
 class HomeController extends GetxController {
   RxBool isLoading = false.obs;
